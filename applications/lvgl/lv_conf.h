@@ -13,7 +13,7 @@
 
 #include <rtconfig.h>
 
-#define LV_USE_PERF_MONITOR     0
+#define LV_USE_PERF_MONITOR     1
 #define LV_COLOR_DEPTH          16
 
 #ifdef PKG_USING_ILI9341
